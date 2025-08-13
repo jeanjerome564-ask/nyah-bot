@@ -1,2 +1,0 @@
-# nyah-bot
-dd
